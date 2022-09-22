@@ -14,11 +14,11 @@ This image shows the account registration process
 
 This picture shows the process of logging in to the account
 
-![This is an image](img/Capture2.PNG.PNG)
+![This is an image](img/Capture2.PNG)
 
 
 
 Logged in
-![This is an image](img/Capture3.PNG.PNG)
+![This is an image](img/Capture3.PNG)
 
 
