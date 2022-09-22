@@ -1,4 +1,4 @@
-Bookmarker - project
+register - project
 
 This project demonstrates the registration of an account and documents the registration process with it, taking into account the validation process
 
@@ -19,6 +19,7 @@ This picture shows the process of logging in to the account
 
 
 Logged in
+
 ![This is an image](img/Capture3.PNG)
 
 
